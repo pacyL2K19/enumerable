@@ -306,8 +306,7 @@ module Enumerable
     end
     result
   end
-  
-  def multiply_els(num = 1)
-    self.my_inject(num) { |product, n| product * n }
-  end
+end
+def multiply_els(num = 1)
+  self.my_inject(num) { |product, n| product * n }
 end
