@@ -1,4 +1,4 @@
-# The Advanced Enumerable
+# The Advanced Enumerable 
 
 > In this project, we were building our own enumerable methods 
 
@@ -12,6 +12,11 @@
 - clone the repository `$ git clone https://github.com/Gnwin/Ruby-Advanced-enumerables.git`
 - go to the project directory `$ cd Ruby-Advanced-enumerables`
 - Run the command `$ ruby enumerables.rb`
+
+## TEST THE APP 
+
+- First install Rspec with `$ gem install rspec` in your terminal
+- Run `$ rspec` or `$rspect --format documentation` for more details 
 
 ## Built With
 
