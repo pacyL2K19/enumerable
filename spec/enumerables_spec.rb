@@ -1,4 +1,5 @@
-require '../enumerables'
+# ./spec/enumerables_spec.rb
+require 'enumerables'
 
 RSpec.describe 'What these Enumerable methods' do
   let(:array_of_number) { [1, 2, 3] }
